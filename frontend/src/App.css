@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.greenColor {
+  color: #22c55e;
+  font-weight: 600;
+}
+
+.redColor {
+  color: #ef4444;
+  font-weight: 600;
+}
